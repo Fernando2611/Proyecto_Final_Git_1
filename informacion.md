@@ -5,7 +5,6 @@ Este archivo contiene en una tabla algo de información personal.
 | Dato  | Información |
 |---|---|
 | Nombre | Fernando |
-| Apellido | Nava |
 | Edad | 27 |
 | Nacionalidad | Mexicana |
 | Profesión | Estudiante |
