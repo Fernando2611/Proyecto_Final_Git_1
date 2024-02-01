@@ -6,3 +6,4 @@ Este archivo contiene en una tabla algo de información personal.
 |---|---|
 | Nombre | Fernando |
 | Apellido | Nava |
+| Edad | 27 |
