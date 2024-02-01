@@ -8,3 +8,4 @@ Este archivo contiene en una tabla algo de información personal.
 | Apellido | Nava |
 | Edad | 27 |
 | Nacionalidad | Mexicana |
+| Profesión | Estudiante |
