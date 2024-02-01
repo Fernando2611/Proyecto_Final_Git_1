@@ -19,3 +19,10 @@ Este archivo contiene 4 clasificaciones de películas por su género con un ejem
     <p align="center">
         <img src="https://as01.epimg.net/epik/imagenes/2020/02/02/portada/1580662115_444434_1580662430_noticia_normal_recorte1.jpg" style="height: 150px; width:250px;"/>
     </p>
+
+
+- ## Comedia
+  - ### Scary Movie
+    <p align="center">
+        <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/04/scary-movie.jpg?tf=3840x" style="height: 150px; width:250px;"/>
+    </p>
