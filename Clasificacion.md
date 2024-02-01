@@ -1,6 +1,6 @@
 # Clasificación de Películas por Género.
 
-Este archivo contiene 4 clasificaciones de películas por su género con un ejemplo de película en cada uno.
+Este archivo contiene 5 clasificaciones de películas por su género con un ejemplo de película en cada uno.
 
 - ## Acción
     - ### John Wick
@@ -25,4 +25,10 @@ Este archivo contiene 4 clasificaciones de películas por su género con un ejem
   - ### Scary Movie
     <p align="center">
         <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/04/scary-movie.jpg?tf=3840x" style="height: 150px; width:250px;"/>
+    </p>
+
+- ## Drama
+  - ### La Vida es Bella
+    <p align="center">
+        <img src="https://m.media-amazon.com/images/I/81BKiNVORfL._AC_UF894,1000_QL80_.jpg" style="height: 250px; width:250px;"/>
     </p>
